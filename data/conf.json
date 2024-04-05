@@ -1,0 +1,6 @@
+{
+    "Telegramtoken": "123456790:AAABBBCCCDDDEEEEFFFF", 
+    "Telegramchatid": "-12345678909",
+    "Telegramthreadid": "11",
+    "WarnDays": [0,1,3,7,10,14]
+}
