@@ -16,7 +16,7 @@
 ```
    "Telegramtoken": "<token>",` - указываем токен бота в Telegram
    "Telegramchatid": "<chatid>",` - указываем ID чата куда отправлять уведомления
-   "Telegramthreadid": "<threadid>",` - при необходимости указываем ID треда, если тредов нет, оставляем пустым ("")
+   "Telegramthreadid": "<threadid>",` - указываем ID треда или оставляем пустым ("")
    "WarnDays": [0,1,3,7,10,14]` - за сколько дней уведомлять  
 ```
 `data/birthdays.csv`
