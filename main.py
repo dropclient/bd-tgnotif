@@ -2,7 +2,7 @@
     Author - dropclient
     GitVerse - https://gitverse.ru/666/
     GitHub - https://github.com/dropclient/
-    Description - Birthday reminder for notify in telegram
+    Description - Birthday reminder for notify in telegram.
     Version - 0.1
 """
 import json
