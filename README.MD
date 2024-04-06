@@ -19,7 +19,7 @@
    "Telegramthreadid": "<threadid>",` - указываем ID треда или оставляем пустым ("")
    "WarnDays": [0,1,3,7,10,14]` - за сколько дней уведомлять  
 ```
-`data/birthdays.csv`
+`data/birthdays.csv`  
 Имя и день рождения через запятую, в формате: 
 ```
 Name,Value
